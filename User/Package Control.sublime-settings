@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1347047052,
+	"installed_packages":
+	[
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"RubyFormat",
+		"RubyTest",
+		"Simple Rails Navigator",
+		"Twitter Bootstrap Snippets"
+	]
+}

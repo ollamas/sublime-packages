@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rspec spec/controllers/authentications_controller_spec.rb -l20",
+	"last_test_working_dir": "/home/marco/apps/falling-wind-934"
+}
