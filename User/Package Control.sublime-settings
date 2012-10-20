@@ -1,12 +1,21 @@
 {
-	"auto_upgrade_last_run": 1347047052,
+	"auto_upgrade_last_run": 1350681708,
 	"installed_packages":
 	[
+		"CoffeeCompile",
+		"CoffeeScript",
+		"CoffeeScript Function Finder",
+		"HTML2Haml",
+		"Jade",
+		"JS2Coffee",
+		"Less2Css",
+		"Markdown Preview",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"RubyFormat",
 		"RubyTest",
 		"Simple Rails Navigator",
-		"Twitter Bootstrap Snippets"
+		"Twitter Bootstrap Snippets",
+		"ZenCoding"
 	]
 }
